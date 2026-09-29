@@ -1,0 +1,101 @@
+N°,Videojuego,Año de salida,Género,Empresa desarrolladora,Pico de jugadores Steam
+1,PUBG: BATTLEGROUNDS,2017,Battle Royale,PUBG Studios,3257248
+2,Black Myth: Wukong,2024,RPG de acción,Game Science,2415714
+3,Palworld,2024,Supervivencia / Acción,Pocketpair,2101867
+4,Counter-Strike 2,2023,FPS,Valve,1862531
+5,Lost Ark,2019,MMORPG,Smilegate RPG,1325305
+6,Dota 2,2013,MOBA,Valve,1295114
+7,Monster Hunter Wilds,2025,RPG de acción,Capcom,1384608
+8,ELDEN RING,2022,RPG de acción,FromSoftware,953426
+9,New World,2021,MMORPG,Amazon Games,913027
+10,Banana,2024,Idle / Casual,Sky,917272
+11,Cyberpunk 2077,2020,RPG de acción,CD Projekt Red,1054388
+12,Apex Legends,2019,Battle Royale / FPS,Respawn Entertainment,624473
+13,Marvel Rivals,2024,Hero Shooter,NetEase Games,644269
+14,Grand Theft Auto V,2015,Acción / Aventura,Rockstar North,364548
+15,Rust,2018,Supervivencia,Facepunch Studios,262284
+16,Tom Clancy's Rainbow Six Siege,2015,FPS táctico,Ubisoft Montreal,201096
+17,Team Fortress 2,2007,FPS,Valve,151253
+18,Terraria,2011,Sandbox / Aventura,Re-Logic,489886
+19,Stardew Valley,2016,Simulación / RPG,ConcernedApe,236614
+20,Baldur's Gate 3,2023,RPG,Larian Studios,875343
+21,Helldivers 2,2024,Shooter / Acción,Arrowhead Game Studios,458709
+22,Warframe,2013,TPS / Acción,Digital Extremes,181509
+23,Dead by Daylight,2016,Horror / Supervivencia,Behaviour Interactive,105093
+24,The Elder Scrolls V: Skyrim,2011,RPG,Bethesda Game Studios,69680
+25,Fallout 4,2015,RPG,Bethesda Game Studios,47266
+26,Fallout 76,2018,RPG / MMO,Bethesda Game Studios,32982
+27,The Witcher 3: Wild Hunt,2015,RPG,CD Projekt Red,103329
+28,The Witcher 2: Assassins of Kings,2011,RPG,CD Projekt Red,23008
+29,The Elder Scrolls Online,2014,MMORPG,ZeniMax Online Studios,49811
+30,Grand Theft Auto IV,2008,Acción / Aventura,Rockstar North,19647
+31,Red Dead Redemption 2,2019,Acción / Aventura,Rockstar Studios,73148
+32,Hogwarts Legacy,2023,RPG / Acción,Avalanche Software,87972
+33,Starfield,2023,RPG,Bethesda Game Studios,33095
+34,The Finals,2023,FPS,Embark Studios,242036
+35,Overwatch 2,2022,Hero Shooter,Blizzard Entertainment,600814
+36,Overwatch,2016,Hero Shooter,Blizzard Entertainment,196754
+37,War Thunder,2013,Simulación / Acción,Gaijin Entertainment,113285
+38,ARK: Survival Evolved,2017,Supervivencia,Studio Wildcard,157071
+39,ARK: Survival Ascended,2023,Supervivencia,Studio Wildcard,98220
+40,7 Days to Die,2013,Supervivencia / Horror,The Fun Pimps,120510
+41,Project Zomboid,2013,Supervivencia / RPG,The Indie Stone,124506
+42,Don't Starve Together,2016,Supervivencia,Klei Entertainment,109431
+43,Valheim,2021,Supervivencia,Iron Gate Studio,502387
+44,Subnautica,2018,Supervivencia,Unknown Worlds Entertainment,79705
+45,Subnautica: Below Zero,2021,Supervivencia,Unknown Worlds Entertainment,15953
+46,DayZ,2018,Supervivencia,Bohemia Interactive,63063
+47,The Forest,2018,Supervivencia / Horror,Endnight Games,76903
+48,Sons of the Forest,2024,Supervivencia / Horror,Endnight Games,411000
+49,Raft,2022,Supervivencia,Redbeet Interactive,101099
+50,Green Hell,2019,Supervivencia,Creepy Jar,10295
+51,Left 4 Dead 2,2009,FPS / Horror,Valve,162399
+52,Half-Life 2,2004,FPS,Valve,62939
+53,Portal 2,2011,Puzzle / FPS,Valve,9831
+54,Garry's Mod,2006,Sandbox,Facepunch Studios,73957
+55,Counter-Strike: Source,2004,FPS,Valve,167471
+56,Counter-Strike: Global Offensive,2012,FPS,Valve,1813564
+57,Day of Defeat: Source,2005,FPS,Valve,6541
+58,Killing Floor 2,2016,FPS / Horror,Tripwire Interactive,10733
+59,PAYDAY 2,2013,FPS / Acción,Starbreeze Studios,24733
+60,PAYDAY 3,2023,FPS / Acción,Starbreeze Studios,69290
+61,BattleBit Remastered,2023,FPS,SgtOkiDoki,87803
+62,Squad,2015,FPS táctico,Offworld Industries,15061
+63,Insurgency: Sandstorm,2018,FPS táctico,New World Interactive,5338
+64,Hunt: Showdown 1896,2019,FPS / Horror,Crytek,45284
+65,Escape from Tarkov,2017,FPS / RPG,Battlestate Games,36915
+66,Day of Infamy,2017,FPS,New World Interactive,4756
+67,Chivalry 2,2021,Acción / Multijugador,Torn Banner Studios,6764
+68,Mount & Blade II: Bannerlord,2022,RPG / Estrategia,TaleWorlds Entertainment,248834
+69,Mount & Blade: Warband,2010,RPG / Estrategia,TaleWorlds Entertainment,97234
+70,Euro Truck Simulator 2,2012,Simulación,SCS Software,68386
+71,American Truck Simulator,2016,Simulación,SCS Software,13453
+72,Farming Simulator 22,2021,Simulación,GIANTS Software,105636
+73,Cities: Skylines,2015,Simulación / Construcción,Colossal Order,60050
+74,Cities: Skylines II,2023,Simulación / Construcción,Colossal Order,104697
+75,The Sims 4,2014,Simulación,Maxis,36996
+76,Planet Zoo,2019,Simulación,Frontier Developments,16176
+77,Planet Coaster,2016,Simulación,Frontier Developments,10663
+78,Civilization VI,2016,Estrategia,Firaxis Games,162657
+79,Civilization V,2010,Estrategia,Firaxis Games,91044
+80,Total War: WARHAMMER III,2022,Estrategia,Creative Assembly,166754
+81,Total War: WARHAMMER II,2017,Estrategia,Creative Assembly,84697
+82,Age of Empires II: Definitive Edition,2019,Estrategia,Forgotten Empires,40524
+83,Age of Empires IV,2021,Estrategia,Relic Entertainment,73881
+84,Crusader Kings III,2020,Gran estrategia,Paradox Development Studio,98842
+85,Europa Universalis IV,2013,Gran estrategia,Paradox Development Studio,63554
+86,Hearts of Iron IV,2016,Gran estrategia,Paradox Development Studio,73428
+87,Stellaris,2016,Gran estrategia / 4X,Paradox Development Studio,68057
+88,Factorio,2020,Construcción / Estrategia,Wube Software,91347
+89,Satisfactory,2024,Construcción / Simulación,Coffee Stain Studios,168186
+90,RimWorld,2018,Simulación / Estrategia,Ludeon Studios,73910
+91,Oxygen Not Included,2019,Simulación / Supervivencia,Klei Entertainment,20351
+92,Hades,2020,Roguelike / Acción,Supergiant Games,37049
+93,Hades II,2025,Roguelike / Acción,Supergiant Games,103567
+94,Hollow Knight,2017,Metroidvania,Team Cherry,28448
+95,Celeste,2018,Plataformas,Maddy Makes Games,12467
+96,Dead Cells,2018,Roguelike / Acción,Motion Twin,27168
+97,The Binding of Isaac: Rebirth,2014,Roguelike,Nicalis,130705
+98,Slay the Spire,2019,Roguelike / Cartas,Mega Crit,22517
+99,Dave the Diver,2023,Aventura / Simulación,Mintrocket,98333
+100,Lethal Company,2023,Horror / Cooperativo,Zeekerss,240817
