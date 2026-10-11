@@ -19,29 +19,23 @@ for clase in clases_unicas:
     sub_dataframes[clase] = sub_df
 
     X = sub_df[atributos].values
-    y = (sub_df[columna_clase] == "si").astype(int).values  # si=1, no=0
+    y = (sub_df[columna_clase] == "si").astype(int).values   # si=1, no=0
 
     modelo = LogisticRegression(max_iter=1000)
     modelo.fit(X, y)
     modelos[clase] = modelo
 
-# --- Videojuegos nuevos a clasificar (modifica estos valores a tu gusto) -----
-# Orden: Intensidad_Accion, Complejidad_Historia, Necesidad_Estrategia,
-#        Habilidad_Requerida, Competitividad
-nuevos = pd.DataFrame(
-    [
-        [90, 30, 20, 85, 60],
-        [20, 85, 40, 30, 15],
-        [30, 60, 90, 50, 55],
-        [50, 40, 45, 90, 95],
-    ],
-    columns=atributos,
-)
+# --- Casos de prueba: se leen desde Prueba_v.csv ----------------------------
+prueba = pd.read_csv("Prueba_v.csv", encoding="utf-8-sig")
+nuevos = prueba[atributos].copy()
+clase_real = prueba[columna_clase].str.strip()
 
 # --- Predicción: gana el modelo con mayor probabilidad de "si" ---------------
 probabilidades = pd.DataFrame(
     {c: m.predict_proba(nuevos[atributos].values)[:, 1] for c, m in modelos.items()})
 nuevos["Genero_predicho"] = probabilidades.idxmax(axis=1)
+nuevos["Genero_real"] = clase_real
+nuevos["Acerto"] = nuevos["Genero_predicho"] == nuevos["Genero_real"]
 
 # --- Resultados por modelo ---------------------------------------------------
 for clase, modelo in modelos.items():
@@ -65,3 +59,5 @@ print("=" * 50)
 print("PREDICCIÓN FINAL")
 print("=" * 50)
 print(nuevos.to_string())
+print(f"\nAciertos: {nuevos['Acerto'].sum()} de {len(nuevos)}")
+print(f"Precisión: {nuevos['Acerto'].mean():.2%}")
